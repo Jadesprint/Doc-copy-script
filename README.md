@@ -23,11 +23,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Jadesprint/Repo-EDA-examen-2">
+  <a href="https://github.com/Jadesprint/Doc-copy-script">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Repo EDA</h3>
+  <h3 align="center">Repository</h3>
 
   <p align="center">
     Repo del segundo parcial
@@ -78,7 +78,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Se intentó crear una aplicación de contactos usando el código de una Hash Table chained y una GUI hecha en Visual Studio la cual no nos fue posible completar
+Simple Python script for copying and replacing documents from one folder to another.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,8 +88,9 @@ Se intentó crear una aplicación de contactos usando el código de una Hash Tab
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+* Python
 * Visual Studio
-* .NET framework
+* Os, shutil and tkinter libs
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -99,14 +100,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Starte
 
-Para checar el archivo binario pensado para este proyecto basta con descargarlo y correrlo en un compilador de C++ de tu preferencia
+For using the script, you must drag and drop it in the folder you want to copy, then just execute it and it'll ask you where is the destination folder, copy and paste the directory and you should be good to go. inb4 no, it doesn't copies the script itself to the destination folder.
 
 ### Prerequisites
 
-* Compilador de C++
+* None
 
 ### Installation
 
+*No further installation needed, just download the script and execute it as told in the Getting Started section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +117,7 @@ Para checar el archivo binario pensado para este proyecto basta con descargarlo 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-El archivo puede usarse para ver el funcionamiento e implementación del programa
+*Use it if you're feeling lazy and don't want to use the copy paste function or it is not viable. That's what scripts are made for.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -125,9 +127,10 @@ El archivo puede usarse para ver el funcionamiento e implementación del program
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Planear la GUI
-- [x] Aprender a usarla
-- [ ] Terminar la GUI
+- [ ] Optimize GUI
+- [ ] Add LOTS of validations
+- [ ] Make it portable to another OS apart from windows
+- [ ] Maybe (?) make it in a better language than Python
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -136,10 +139,8 @@ El archivo puede usarse para ver el funcionamiento e implementación del program
 
 <!-- CONTRIBUTING -->
 ## Contributing
-Nombre de los contribuyentes: 
+Contributors:
 * Javier Martin
-* Denisse Valle
-* Jenyfher Casillas
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -155,7 +156,7 @@ Nombre de los contribuyentes:
 <!-- CONTACT -->
 ## Contact
 
-Project Link: https://github.com/Jadesprint/Repo-EDA-examen-2
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +167,7 @@ Project Link: https://github.com/Jadesprint/Repo-EDA-examen-2
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* Al profesor Hinojosa por la simulación de un proyecto profesional. Personalmente me divertí bastante
+* Python documentation because it is so clear I did this from scratch. That's baffling IMO.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
