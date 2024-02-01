@@ -67,7 +67,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Simple Python script for copying and replacing documents from one folder to another.
 
