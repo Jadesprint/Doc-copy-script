@@ -76,7 +76,7 @@ Simple Python script for copying and replacing documents from one folder to anot
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<!--This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.-->
 
 * Python
 * Visual Studio
@@ -90,7 +90,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Starte
 
-For using the script, you must drag and drop it in the folder you want to copy, then just execute it and it'll ask you where is the destination folder, copy and paste the directory and you should be good to go. inb4 no, it doesn't copies the script itself to the destination folder.
+<!--For using the script, you must drag and drop it in the folder you want to copy, then just execute it and it'll ask you where is the destination folder, copy and paste the directory and you should be good to go. inb4 no, it doesn't copies the script itself to the destination folder.-->
 
 ### Prerequisites
 
@@ -155,9 +155,8 @@ Contributors:
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* Python documentation because it is so clear I did this from scratch. That's baffling IMO.
+* Python documentation because it is so clear I did this from scratch. Found that baffling IMO.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
